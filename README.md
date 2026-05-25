@@ -87,17 +87,6 @@ Personal developer portfolio showcasing projects and skills.
 
 ---
 
-# GitHub Analytics
-
-<p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Atharv122005&show_icons=true&theme=github_dark&hide_border=true"/>
-</p>
-
-<p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Atharv122005&layout=compact&theme=github_dark&hide_border=true"/>
-</p>
-
----
 
 # Development Philosophy
 
