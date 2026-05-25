@@ -1,107 +1,128 @@
-<h1 align="center">Hi 👋, I'm Atharv Patil</h1>
-<h3 align="center">3rd Year Engineering Student | Full Stack Developer | AI Enthusiast</h3>
+<div align="center">
 
-<p align="center">
-  Passionate about building scalable web applications, solving DSA problems, and exploring modern technologies.
-</p>
+# Atharv Patil
 
----
+### Full Stack Developer • Java DSA • MERN Stack • AI Enthusiast
 
-## 🚀 About Me
+Building scalable web applications, solving real-world problems, and exploring modern technologies.
 
-- 🎓 3rd Year Engineering Student
-- 💻 Full Stack MERN Developer
-- 🧠 Strong interest in Data Structures & Algorithms
-- ⚡ Exploring AI, Cloud, Docker & Kubernetes
-- 🌱 Continuously learning modern technologies
-- 🔥 Love building real-world projects
+</div>
 
 ---
 
-## 🛠️ Tech Stack
+# About Me
 
-### 👨‍💻 Programming Languages
+- 3rd Year Engineering Student
+- Full Stack MERN Developer
+- Strong in Java & DSA
+- Exploring AI, Docker & Kubernetes
+- Passionate about modern UI/UX
+- Interested in scalable backend systems
+
+---
+
+# Tech Stack
+
+## Languages
+
 <p>
   <img src="https://skillicons.dev/icons?i=java,js,python,c,cpp" />
 </p>
 
-### 🌐 Frontend Development
+## Frontend
+
 <p>
   <img src="https://skillicons.dev/icons?i=html,css,react,tailwind" />
 </p>
 
-### ⚙️ Backend Development
+## Backend
+
 <p>
   <img src="https://skillicons.dev/icons?i=nodejs,express" />
 </p>
 
-### 🗄️ Databases
+## Database
+
 <p>
   <img src="https://skillicons.dev/icons?i=mongodb,mysql" />
 </p>
 
-### ☁️ DevOps & Cloud
+## DevOps & Tools
+
 <p>
-  <img src="https://skillicons.dev/icons?i=docker,kubernetes,git,github" />
+  <img src="https://skillicons.dev/icons?i=docker,kubernetes,git,github,vscode,postman,linux" />
 </p>
 
-### 🛠️ Tools & Technologies
+---
+
+# Current Focus
+
+```txt
+Building Full Stack Applications
+Improving DSA Problem Solving
+Learning System Design
+Exploring Cloud & DevOps
+Creating Production Level Projects
+```
+
+---
+
+# Featured Projects
+
+## Social Media Platform
+
+Modern social media application with responsive UI, posts, comments, notifications, and messaging system.
+
+## AI Text Summarizer
+
+AI-powered application for summarizing long-form content using NLP concepts.
+
+## E-Commerce Platform
+
+Responsive e-commerce web application with authentication and dynamic UI.
+
+## Portfolio Website
+
+Personal developer portfolio showcasing projects and skills.
+
+---
+
+# GitHub Analytics
+
+<p align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Atharv122005&show_icons=true&theme=github_dark&hide_border=true"/>
+</p>
+
+<p align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Atharv122005&layout=compact&theme=github_dark&hide_border=true"/>
+</p>
+
+---
+
+# Development Philosophy
+
+```txt
+Write Clean Code
+Build Real Projects
+Learn Consistently
+Focus on Problem Solving
+Stay Curious
+```
+
+---
+
+# Connect
+
 <p>
-  <img src="https://skillicons.dev/icons?i=vscode,postman,linux" />
-</p>
-
----
-
-## 📌 Featured Projects
-
-### 🔹 Social Media Platform
-A modern social media application built using React and Vite with responsive UI and interactive features.
-
-### 🔹 E-Commerce Website
-Full responsive shopping website with product pages, authentication UI, and modern design.
-
-### 🔹 AI Text Summarizer
-AI-powered application for summarizing long text using Python and NLP concepts.
-
-### 🔹 Portfolio Website
-Personal portfolio showcasing projects, skills, and achievements.
-
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Atharv122005&show_icons=true&theme=tokyonight" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Atharv122005&theme=tokyonight" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Atharv122005&layout=compact&theme=tokyonight" />
-</p>
-
----
-
-## 🌐 Connect With Me
-
-<p align="left">
-  <a href="https://github.com/Atharv122005" target="_blank">
-    <img src="https://skillicons.dev/icons?i=github" height="40"/>
+  <a href="https://github.com/Atharv122005">
+    <img src="https://skillicons.dev/icons?i=github" />
   </a>
 </p>
 
 ---
 
-## 📈 Contribution Graph
+<div align="center">
 
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Atharv122005&theme=tokyo-night" />
-</p>
+### Always learning, building, and improving.
 
----
-
-<p align="center">
-  ⭐ Thanks for visiting my profile ⭐
-</p>
+</div>
